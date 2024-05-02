@@ -1,4 +1,4 @@
-### 👩‍💻 Thrisha Rajkumar | Data Science and Analytics Professional | Machine Learning | Full Stack Web Developer | Flutter App Developer | Experienced in Salesforce Development | Proficient in Python, C, Java, JavaScript
+## 👩‍💻 Thrisha Rajkumar | Data Science and Analytics Professional | Machine Learning | Full Stack Web Developer | Flutter App Developer | Experienced in Salesforce Development | Proficient in Python, C, Java, JavaScript
 
 🎓 Intern at Unilever, India: Currently interning at Unilever, gaining hands-on experience in real-time projects aligned with my field of interest. Proficient in Python programming language, utilizing Jupyter Lab and Visual Studio Code platforms for development. During the internship I am also focusing on python for analysing and using machine learning in automating SAP data and also working on optimizatin of Supply chain operations.
 
@@ -10,18 +10,18 @@
 
 💬 Get in Touch: Excited to connect with fellow enthusiasts, collaborate on projects, and explore new opportunities in the field of Data Science and Analytics. Feel free to reach out!
 
-#### ✨ ACHIEVEMENTS
+## ✨ ACHIEVEMENTS
 
-### 🎓 Intern at Unilever, India | Data Science and Analysis Intern
+#### 🎓 Intern at Unilever, India | Data Science and Analysis Intern
 
 January 2024 - Present (5 months)
 
-## ManEx – Manufacturing Excellence - Data Analysis and Management: Analyzed manufacturing data in MS Excel, focusing on MDCS reporting, SRS uploads, and OEE file interpretations. Developed Power BI dashboards and configured various business brilliant basics within the BuildApp platform, contributing significantly to digitalization efforts.
-## Spectrophotometer Automated Optimization - Data Analysis for 250+ Shades: Optimized lipstick production by analyzing spectrophotometer data for 250+ shades, reducing changeover time and transitioning to a 2-shift schedule. Automated tasks and optimized labor, releasing 14 manpower resources. Enhanced Overall Equipment Effectiveness (OEE) through data-driven automation using Python and Pandas in Jupyter Lab.
-## Defect Analysis in Face-it Compact Line: Efficiently reduced the scratch defect percentage by 7%.
-## Automation of Batching for physical stock: Optimized SFG and RM/PM batching for physical stock availability using Jupyter Python programming.
+🔍 ManEx – Manufacturing Excellence - Data Analysis and Management: Analyzed manufacturing data in MS Excel, focusing on MDCS reporting, SRS uploads, and OEE file interpretations. Developed Power BI dashboards and configured various business brilliant basics within the BuildApp platform, contributing significantly to digitalization efforts.
+🔍 Spectrophotometer Automated Optimization - Data Analysis for 250+ Shades: Optimized lipstick production by analyzing spectrophotometer data for 250+ shades, reducing changeover time and transitioning to a 2-shift schedule. Automated tasks and optimized labor, releasing 14 manpower resources. Enhanced Overall Equipment Effectiveness (OEE) through data-driven automation using Python and Pandas in Jupyter Lab.
+🔍 Defect Analysis in Face-it Compact Line: Efficiently reduced the scratch defect percentage by 7%.
+🔍 Automation of Batching for physical stock: Optimized SFG and RM/PM batching for physical stock availability using Jupyter Python programming.
 
-### 📱 Frontend Flutter App Developer Intern | Oneline Works
+#### 📱 Frontend Flutter App Developer Intern | Oneline Works
 
 September 2023 - September 2023 (1 month)
 
