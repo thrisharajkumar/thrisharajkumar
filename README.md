@@ -2,7 +2,7 @@
 
 🎓 Intern at Unilever, India: Currently interning at Unilever, gaining hands-on experience in real-time projects aligned with my field of interest. Proficient in Python programming language, utilizing Jupyter Lab and Visual Studio Code platforms for development. During the internship I am also focusing on python for analysing and using machine learning in automating SAP data and also working on optimizatin of Supply chain operations.
 
-🔧 Optimizing Data Processes: At Hindustan Unilever Limited, I've focused on optimizing and automating data processes, resulting in significant improvements in time and cost efficiency.
+🔧 Optimizing Data Processes:  I've focused on optimizing and automating data processes, resulting in significant improvements in time and cost efficiency.
 
 🚀 Maximizing GitHub for Personal Projects: Eager to leverage GitHub for my personal projects and network with professionals through collaborations. Seeking to understand the collaborative platform and advance my career in Data Science and Analytics.
 
