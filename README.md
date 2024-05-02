@@ -1,5 +1,8 @@
 ## 👩‍💻 Thrisha Rajkumar | Data Science and Analytics Professional | Machine Learning | Full Stack Web Developer | Flutter App Developer | Experienced in Salesforce Development | Proficient in Python, C, Java, JavaScript
 
+[![LinkedIn Logo](https://img.shields.io/badge/-LinkedIn-2088FF?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/thrisha-rajkumar/)
+
+
 🎓 Intern at Unilever, India: Currently interning at Unilever, gaining hands-on experience in real-time projects aligned with my field of interest. Proficient in Python programming language, utilizing Jupyter Lab and Visual Studio Code platforms for development. During the internship I am also focusing on python for analysing and using machine learning in automating SAP data and also working on optimizatin of Supply chain operations.
 
 🔧 Optimizing Data Processes:  I've focused on optimizing and automating data processes, resulting in significant improvements in time and cost efficiency.
