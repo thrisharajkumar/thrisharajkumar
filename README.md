@@ -29,7 +29,9 @@ January 2024 - Present (5 months)
 September 2023 - September 2023 (1 month)
 
 🔍 Developed the mobile application's front end using the Flutter framework with a focus on UI design in Figma.
+
 🔍 Implemented responsive layouts and optimized the app for various screen sizes.
+
 🔍 Integrated the Zoom SDK for seamless meeting participation and managed client calls and communication efficiently.
 
 #### 📚 Infosys Training | Infosys Internship - Artificial Intelligence Primer Certification
