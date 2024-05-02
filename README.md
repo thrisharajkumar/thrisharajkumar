@@ -1,15 +1,4 @@
-### Hi Everyone👋
 
-### ⚡About Me
-
-I am Thrisha Rajkumar, a Data Science and Analytics Student currently interning in Unilever, India in the same feild of interest.
-
-🚀 Data Science & Analytics Professional | Full Stack Developer | Flutter App Developer
-🔍 Passionate about advancing my career in Data Science, Analytics, Machine Learning, and Artificial Intelligence. Currently expanding expertise in Supply Chain Management and Analytics, with valuable internship experience at Unilever.
-💡 Seeking Part-time Opportunities & Freelance Projects: Actively pursuing opportunities in Business Analytics and open-source Machine Learning initiatives to broaden my network and contribute to real-world projects.
-🌟 Optimizing Supply Chain Processes: Leveraging strong background in Data Science and Analytics to optimize supply chain operations and enhance operational efficiency. Actively seeking roles in Supply Chain Management Analysis.
-🎨 Multifaceted Interests: Professional Bharathanatyam dancer and Carnatic singer, currently pursuing a diploma in Bharatanatyam. Passion for the arts complements technical expertise and serves as a source of inspiration and rejuvenation.
-🌐 Eager to Collaborate: Excited to start new collaborations and contribute to open-source projects. Joining the developer community to engage in real-world problems, challenges, and new project adventures. Interested in connecting for collaborations and project opportunities!
 <!--
 **thrisharajkumar/thrisharajkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
