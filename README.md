@@ -17,39 +17,46 @@
 January 2024 - Present (5 months)
 
 🔍 ManEx – Manufacturing Excellence - Data Analysis and Management: Analyzed manufacturing data in MS Excel, focusing on MDCS reporting, SRS uploads, and OEE file interpretations. Developed Power BI dashboards and configured various business brilliant basics within the BuildApp platform, contributing significantly to digitalization efforts.
+
 🔍 Spectrophotometer Automated Optimization - Data Analysis for 250+ Shades: Optimized lipstick production by analyzing spectrophotometer data for 250+ shades, reducing changeover time and transitioning to a 2-shift schedule. Automated tasks and optimized labor, releasing 14 manpower resources. Enhanced Overall Equipment Effectiveness (OEE) through data-driven automation using Python and Pandas in Jupyter Lab.
+
 🔍 Defect Analysis in Face-it Compact Line: Efficiently reduced the scratch defect percentage by 7%.
+
 🔍 Automation of Batching for physical stock: Optimized SFG and RM/PM batching for physical stock availability using Jupyter Python programming.
 
 #### 📱 Frontend Flutter App Developer Intern | Oneline Works
 
 September 2023 - September 2023 (1 month)
 
-## Developed the mobile application's front end using the Flutter framework with a focus on UI design in Figma.
-## Implemented responsive layouts and optimized the app for various screen sizes.
-## Integrated the Zoom SDK for seamless meeting participation and managed client calls and communication efficiently.
+🔍 Developed the mobile application's front end using the Flutter framework with a focus on UI design in Figma.
+🔍 Implemented responsive layouts and optimized the app for various screen sizes.
+🔍 Integrated the Zoom SDK for seamless meeting participation and managed client calls and communication efficiently.
 
-### 📚 Infosys Training | Infosys Internship - Artificial Intelligence Primer Certification
+#### 📚 Infosys Training | Infosys Internship - Artificial Intelligence Primer Certification
 
 July 2023 - August 2023 (2 months)
 
-## Acquired extensive knowledge in Artificial Intelligence, Deep Learning, Data Science, Natural Language Processing, Robotic Process Automation, and Computer Vision. Validated expertise through proficient certifications and quizzes.
+🔍 Acquired extensive knowledge in Artificial Intelligence, Deep Learning, Data Science, Natural Language Processing, Robotic Process Automation, and Computer Vision. Validated expertise through proficient certifications and quizzes.
 
-### 💼 Salesforce Developer | Deloitte
+#### 💼 Salesforce Developer | Deloitte
 
 June 2023 - August 2023 (3 months)
 
-## Completed a virtual internship program with diverse modules, projects, and Super badges on Salesforce Trailhead.
-## Trained in Salesforce Fundamentals, Organizational Configuration, Relationship and Process Automation, Flows and Security, Apex Development, Testing, Debugging, Lightning Web Components (LWC), and API Integration.
+🔍 Completed a virtual internship program with diverse modules, projects, and Super badges on Salesforce Trailhead.
 
-### 💻 Web Developer | DLithe
+🔍 Trained in Salesforce Fundamentals, Organizational Configuration, Relationship and Process Automation, Flows and Security, Apex Development, Testing, Debugging, Lightning Web Components (LWC), and API Integration.
+
+#### 💻 Web Developer | DLithe
 
 July 2022 - August 2022 (2 months)
 
-## Demonstrated proficiency in website design and development, utilizing HTML, CSS, JavaScript, and Angular.
-## Led the development of a scalable ad-serving platform and an e-commerce shopping website.
-## Collaborated with cross-functional teams to gather requirements, design solutions, and implement custom functionalities.
-## Optimized effective decision-making skills within the team to address challenging technical tasks.
+🔍 Demonstrated proficiency in website design and development, utilizing HTML, CSS, JavaScript, and Angular.
+
+🔍 Led the development of a scalable ad-serving platform and an e-commerce shopping website.
+
+🔍 Collaborated with cross-functional teams to gather requirements, design solutions, and implement custom functionalities.
+
+🔍 Optimized effective decision-making skills within the team to address challenging technical tasks.
 <!--
 **thrisharajkumar/thrisharajkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
