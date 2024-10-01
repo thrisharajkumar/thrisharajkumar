@@ -3,9 +3,14 @@
 [![LinkedIn Logo](https://img.shields.io/badge/-LinkedIn-2088FF?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/thrisha-rajkumar/)
 
 
-🎓 Intern at Unilever, India: Currently interning at Unilever, gaining hands-on experience in real-time projects aligned with my field of interest. Proficient in Python programming language, utilizing Jupyter Lab and Visual Studio Code platforms for development. During the internship I am also focusing on python for analysing and using machine learning in automating SAP data and also working on optimizatin of Supply chain operations.
+🎓 I am currently pursuing a Master of Science (MSc) in Data Science at the University of Bristol, further advancing my expertise in Data Science, Analytics, and Statistical computing using R, AWS Cloud computing, Machine Learning, and Artificial Intelligence.
 
-🔧 Optimizing Data Processes:  I've focused on optimizing and automating data processes, resulting in significant improvements in time and cost efficiency.
+In addition, I am actively expanding my knowledge in Supply Chain Management and Analytics, focusing keenly on optimizing supply chain processes and enhancing operational efficiency.
+My internship experience at Unilever has provided me with valuable hands-on exposure to these domains, enabling me to proficiently apply my skills to real-world challenges. I am actively seeking part-time opportunities and freelance projects and research works in Business Analytics, Data Science, and contributing to open-source Machine Learning initiatives to expand my professional network and impact. For a detailed overview of my certifications and accomplishments, please refer to my profile.
+
+With a strong background in Data Science and Analytics, I am eager to leverage my skills in optimizing supply chain processes and enhancing operational efficiency. Therefore, I am actively seeking opportunities in the field of Supply Chain Management Analysis.
+
+Furthermore, I am also a professional Bharathanatyam dancer and Carnatic singer. I am currently pursuing a diploma in Bharatanatyam, which complements my passion for the arts and serves as a source of inspiration and rejuvenation.
 
 🚀 Maximizing GitHub for Personal Projects: Eager to leverage GitHub for my personal projects and network with professionals through collaborations. Seeking to understand the collaborative platform and advance my career in Data Science and Analytics.
 
