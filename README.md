@@ -24,13 +24,30 @@ Furthermore, I am also a professional Bharathanatyam dancer and Carnatic singer.
 
 January 2024 - Present (5 months)
 
-🔍 ManEx – Manufacturing Excellence - Data Analysis and Management: Analyzed manufacturing data in MS Excel, focusing on MDCS reporting, SRS uploads, and OEE file interpretations. Developed Power BI dashboards and configured various business brilliant basics within the BuildApp platform, contributing significantly to digitalization efforts.
+🔍 15 Data Science and Analytics projects across various departments:
 
-🔍 Spectrophotometer Automated Optimization - Data Analysis for 250+ Shades: Optimized lipstick production by analyzing spectrophotometer data for 250+ shades, reducing changeover time and transitioning to a 2-shift schedule. Automated tasks and optimized labor, releasing 14 manpower resources. Enhanced Overall Equipment Effectiveness (OEE) through data-driven automation using Python and Pandas in Jupyter Lab.
+ManEx Department:
+• BuildApp & Digitalization of Factory Operations
 
-🔍 Defect Analysis in Face-it Compact Line: Efficiently reduced the scratch defect percentage by 7%.
+Manufacturing Department:
+• Spectrophotometer Production Optimization: Developed algorithmic programming for automatic production optimization. 
+• OMSAI Production Line Defect Analysis: Analyzed throughput bottlenecks in the Baby Dove line and packing hall. 
+• Spectrophotometer Shade Analysis: Derived empirical formula for shade-matching 
+• Batch Card Standard Deviation Calculation: Analyzed for FDA compliance. 
+• Master Recipe Reworking Study: Conducted study on the Color-2 reworking process
 
-🔍 Automation of Batching for physical stock: Optimized SFG and RM/PM batching for physical stock availability using Jupyter Python programming.
+Supply Chain Department:
+• Rolling Forecast Plan Review: Programmed to simplify factory planning. 
+• Technical Efficiency Programming: Automated data analysis for batching of physical stocks (SFG, RM, PM, FG) 
+• E-way Bill Automation: Automated RGP and NRGP processes using SAP, Python, and Power Automate 
+• Supply Chain Understanding
+
+Engineering Department:
+• Energy Management System: Implemented machine learning algorithms and Python programming, utilizing NODE-RED and Grafana
+ 
+Safety Department:
+• UA and UC Data Analysis for the USEAT Safety App
+• Machine Learning-Based Safety Management System
 
 #### 📱 Frontend Flutter App Developer Intern | Oneline Works
 
