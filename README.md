@@ -27,27 +27,28 @@ January 2024 - Present (5 months)
 🔍 15 Data Science and Analytics projects across various departments:
 
 ManEx Department:
-• BuildApp & Digitalization of Factory Operations
 
+🔍 BuildApp & Digitalization of Factory Operations
 Manufacturing Department:
-• Spectrophotometer Production Optimization: Developed algorithmic programming for automatic production optimization. 
-• OMSAI Production Line Defect Analysis: Analyzed throughput bottlenecks in the Baby Dove line and packing hall. 
-• Spectrophotometer Shade Analysis: Derived empirical formula for shade-matching 
-• Batch Card Standard Deviation Calculation: Analyzed for FDA compliance. 
-• Master Recipe Reworking Study: Conducted study on the Color-2 reworking process
 
+⚙️ Spectrophotometer Production Optimization: Developed algorithmic programming for automatic production optimization.
+📊 OMSAI Production Line Defect Analysis: Analyzed throughput bottlenecks in the Baby Dove line and packing hall.
+🎨 Spectrophotometer Shade Analysis: Derived empirical formula for shade-matching.
+📏 Batch Card Standard Deviation Calculation: Analyzed for FDA compliance.
+📋 Master Recipe Reworking Study: Conducted study on the Color-2 reworking process.
 Supply Chain Department:
-• Rolling Forecast Plan Review: Programmed to simplify factory planning. 
-• Technical Efficiency Programming: Automated data analysis for batching of physical stocks (SFG, RM, PM, FG) 
-• E-way Bill Automation: Automated RGP and NRGP processes using SAP, Python, and Power Automate 
-• Supply Chain Understanding
 
+📅 Rolling Forecast Plan Review: Programmed to simplify factory planning.
+⚡ Technical Efficiency Programming: Automated data analysis for batching of physical stocks (SFG, RM, PM, FG).
+📜 E-way Bill Automation: Automated RGP and NRGP processes using SAP, Python, and Power Automate.
+📦 Supply Chain Understanding.
 Engineering Department:
-• Energy Management System: Implemented machine learning algorithms and Python programming, utilizing NODE-RED and Grafana
- 
+
+🔋 Energy Management System: Implemented machine learning algorithms and Python programming, utilizing NODE-RED and Grafana.
 Safety Department:
-• UA and UC Data Analysis for the USEAT Safety App
-• Machine Learning-Based Safety Management System
+
+📊 UA and UC Data Analysis for the USEAT Safety App.
+🛡️ Machine Learning-Based Safety Management System.
 
 #### 📱 Frontend Flutter App Developer Intern | Oneline Works
 
@@ -87,14 +88,4 @@ July 2022 - August 2022 (2 months)
 <!--
 **thrisharajkumar/thrisharajkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
