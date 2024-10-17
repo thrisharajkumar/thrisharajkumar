@@ -22,7 +22,7 @@ Furthermore, I am also a professional Bharathanatyam dancer and Carnatic singer.
 
 #### 🎓 Intern at Unilever, India | Data Science and Analysis Intern
 
-January 2024 - Present (5 months)
+January 2024 - May 2024
 
 🔍 15 Data Science and Analytics projects across various departments:
 
