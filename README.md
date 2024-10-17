@@ -32,22 +32,33 @@ ManEx Department:
 Manufacturing Department:
 
 ⚙️ Spectrophotometer Production Optimization: Developed algorithmic programming for automatic production optimization.
+
 📊 OMSAI Production Line Defect Analysis: Analyzed throughput bottlenecks in the Baby Dove line and packing hall.
+
 🎨 Spectrophotometer Shade Analysis: Derived empirical formula for shade-matching.
+
 📏 Batch Card Standard Deviation Calculation: Analyzed for FDA compliance.
+
 📋 Master Recipe Reworking Study: Conducted study on the Color-2 reworking process.
+
 Supply Chain Department:
 
 📅 Rolling Forecast Plan Review: Programmed to simplify factory planning.
+
 ⚡ Technical Efficiency Programming: Automated data analysis for batching of physical stocks (SFG, RM, PM, FG).
+
 📜 E-way Bill Automation: Automated RGP and NRGP processes using SAP, Python, and Power Automate.
+
 📦 Supply Chain Understanding.
+
 Engineering Department:
 
 🔋 Energy Management System: Implemented machine learning algorithms and Python programming, utilizing NODE-RED and Grafana.
+
 Safety Department:
 
 📊 UA and UC Data Analysis for the USEAT Safety App.
+
 🛡️ Machine Learning-Based Safety Management System.
 
 #### 📱 Frontend Flutter App Developer Intern | Oneline Works
