@@ -4,6 +4,8 @@
 
 # 👋 Hi there! I'm Thrisha Rajkumar
 
+I am currently pursuing a **Master of Science (MSc) in Data Science at the University of Bristol**, further advancing my expertise in Data Science, Analytics, and Statistical computing using R, AWS Cloud computing, Machine Learning, and Artificial Intelligence.
+
 Currently working on an **NIHR-funded stroke rehabilitation project** led by the University of Bristol in collaboration with the NHS. I’m co-designing an AI algorithm and developing a cross-platform **Flutter app** to personalise rehabilitation routines for stroke patients — working closely with clinicians and patients to ensure inclusive, real-world impact. My work spans **machine learning**, **ethical data collection**, and **app development**.
 
 ---
