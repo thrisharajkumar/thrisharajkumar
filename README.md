@@ -105,10 +105,17 @@ I bring **creativity, discipline, and endurance** into every project I take on.
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Stats & Activity  
 
 ![Thrisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thrisharajkumar&show_icons=true&theme=radical)  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thrisharajkumar&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thrisharajkumar&theme=radical)  
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thrisharajkumar&theme=react-dark&bg_color=20232a&hide_border=true)  
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=thrisharajkumar&theme=radical&margin-w=15&margin-h=15&row=2&column=4)  
 
 ---
 
