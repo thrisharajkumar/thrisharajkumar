@@ -1,123 +1,111 @@
+<!-- Typing effect -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=1000&lines=Thrisha+Rajkumar+-+MSc+Data+Science+Student+%40+Bristol;AI+%7C+ML+%7C+Data+Science+%7C+Cloud+%7C+Research;NIHR%2FNHS+Stroke+Rehabilitation+Project;Turning+Complex+Data+into+Impactful+Insights)](https://git.io/typing-svg)
+
+---
+
 # 👩‍💻 Thrisha Rajkumar  
 
-*MSc Data Science Student @ University of Bristol ’25 | AI/ML Research Support (NIHR/NHS) | Data Science & Analytics Specialist | Python • R • AWS • Machine Learning • Full-Stack Development*  
+*MSc Data Science Student @ University of Bristol ’25 | AI/ML Research Support (NIHR/NHS) | Data Science & Analytics Specialist*  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/thrisha-rajkumar/) • [GitHub](https://github.com/thrisharajkumar)  
 
----
-
-## 👋 Hi there!  
-I’m **Thrisha Rajkumar**, currently pursuing an **MSc in Data Science** at the **University of Bristol**, where I’m deepening my expertise in **machine learning, cloud computing, visual analytics, and applied AI**.  
-
-I’m passionate about building **impact-driven data solutions** that combine analytics, healthcare, and scalable engineering. Currently, I’m working as a **Research Support Assistant** on an **NIHR-funded project with the NHS**, developing AI models and a cross-platform rehabilitation app for stroke patients.  
+![Profile Views](https://komarev.com/ghpvc/?username=thrisharajkumar&color=brightgreen&style=flat-square)  
 
 ---
 
-## 🎓 Education  
-- **MSc Data Science (Distinction expected)** – *University of Bristol, UK (2024–2025)*  
-- **BTech Computer Science & Engineering (Specialisation in Data Science & Analytics)** – *DIT University, India (2020–2024)*  
+## 👋 About Me  
+
+Hi, I’m **Thrisha Rajkumar**, an MSc Data Science student at the **University of Bristol** with a passion for **AI, machine learning, and socially impactful data projects**.  
+
+Currently, I work as a **Research Support Assistant** on an **NIHR-funded project with the NHS**, co-developing AI algorithms and a cross-platform rehabilitation app for stroke patients.  
+
+I bring experience across **healthcare AI, socio-economic analytics, cloud systems, and full-stack development**.  
 
 ---
 
-## 💼 Professional Experience  
+## 🏆 Career Timeline  
 
-### 🔹 Research Support – ML & AI (University of Bristol | NHS | NIHR)  
-*Apr 2025 – Present*  
-- Co-developing a **cross-platform Flutter rehabilitation app** (iOS, Android, Web).  
-- Designing **AI/ML models** for personalised stroke rehabilitation routines.  
-- Collaborating with clinicians, patients, and researchers across multiple UK institutions.  
-- Presented at **NIHR ABI Conference (London, Sept 2025)** & **HDRN Workshop (Bristol, 2025)**.  
-
-### 🔹 Data Science Intern – Unilever (Hindustan Unilever Limited, India)  
-*Jan 2024 – May 2024*  
-- Delivered **15+ analytics initiatives** across manufacturing, supply chain, and energy.  
-- Improved **SKU forecasting by 25%** and cut **changeover time by 40%** with optimisation algorithms.  
-- Built **Tableau & Power BI dashboards** improving KPI visibility by 15–20%.  
-- Automated SAP-based workflows, reducing manual effort.  
-
-### 🔹 Other Roles  
-- **Frontend App Developer (Flutter)** – OneLine Works Pvt. Ltd.  
-- **Salesforce Developer Intern** – Salesforce (India)  
-- **AI Certification Trainee** – Infosys (AI, NLP, Deep Learning, RPA)  
-- **Full Stack Web Developer Intern** – DLithe Consultancy  
+- 🎓 **MSc Data Science** – University of Bristol (2024–2025)  
+- 💼 **Data Science Intern** – Unilever (15+ ML initiatives delivered, 2024)  
+- 🤝 **Research Support** – NIHR/NHS Stroke Rehabilitation Project (2025)  
+- 🏅 **Awards** – Bristol PLUS Award, BILT Research Award, McKinsey Forward  
+- 🎤 **Talks** – NIHR ABI Conference (London), HDRN Workshop (Bristol, 2025)  
+- 📊 **MSc Projects** – UK Census Bayesian Analytics, EMI Surrogate Modelling, Text Analytics  
 
 ---
 
-## 📊 Key MSc Projects  
+## 📊 Featured Projects  
 
-### 📌 Master’s Thesis – **Surrogate Modelling for EMI Prediction**  
-- Built **multi-output ANN surrogate models** achieving **R² > 0.90**.  
-- Integrated **MOSFET embeddings, attention-based models, and physics-informed features**.  
-- Reduced EMI evaluation time from **hours to seconds**.  
+### 🔹 [UK Census Socio-Economic Analysis](#)  
+- Bayesian Ridge Regression for imputation across 348 LADs  
+- Dimensionality reduction (UMAP, t-SNE) + KMeans clustering  
+- Interactive Tableau dashboards for trends in education, employment & migration  
 
-### 📌 Visual Analytics – **UK Census Socio-Economic Analysis**  
-- Integrated **10+ datasets** across education, employment, migration, and occupation.  
-- Applied **Bayesian Ridge Regression** for missing data imputation.  
-- Used **UMAP, t-SNE, KMeans** for clustering.  
-- Built **interactive Tableau dashboards** for regional socio-economic insights.  
+### 🔹 [Surrogate Modelling for EMI Prediction](#)  
+- Multi-output regression with ANN surrogate models  
+- Achieved R² > 0.90 across 13 EMI targets  
+- Reduced EMI evaluation runtime from hours → seconds  
 
-### 📌 Applied Neural Networks – **CIRNet Enhancement (with Sapienza University, Rome)**  
-- Enhanced protein residue prediction with **PCA + hydropathy scales**.  
-- Achieved **78% accuracy** with improved generalisation.  
+### 🔹 [NHS Stroke Rehabilitation App](#)  
+- Cross-platform Flutter app (iOS, Android, Web)  
+- AI/ML-powered personalisation of routines  
+- Clinician & patient co-design for real-world impact  
 
-### 📌 Text Analytics Coursework  
-- Built **NER using BiLSTM+CRF**, **BERT for sentiment analysis**, and **LDA topic modelling**.  
-
-### 📌 INSPIRE Clinical Dataset Collaboration  
-- Developed **time-series forecasting models** for peri-operative outcomes.  
+### 🔹 [Applied Neural Networks (Sapienza University, Rome)](#)  
+- CIRNet for protein residue prediction  
+- Accuracy boosted to 78% using PCA + hydropathy features  
 
 ---
 
-## 🏆 Awards & Certifications  
-- **McKinsey Forward Program** (Global, Oct–Dec 2025)  
-- **Bristol PLUS Award** (University of Bristol, 2025)  
-- **BILT Highly Commendable Award** – Student Research Festival 2025  
-- **AWS Academy Graduate – Cloud Foundations**  
-- **Salesforce Superbadges** (LWC, Apex, API Integration)  
-- **Infosys Certifications** – AI, NLP, Deep Learning, RPA  
-- **Full Stack Development (LinkedIn Learning)** – React, Node.js, SQL, DevOps  
+## 🛠️ Tech Stack  
+
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Data Science & ML**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Cloud & Tools**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![NodeRED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
-## 🚀 Highlights & Engagements  
-- 🎤 **Speaker** – NIHR ABI Conference (London, 2025)  
-- 🎤 **Presenter** – HDRN Workshop (Bristol, 2025)  
-- 🌍 **Turing GW4 AI & Net Zero Event** – University of Bath  
-- 👩‍💻 Hackathons – **ETH Oxford**, **Encode AI Hackathon**, **Google Tech IWD 2025**  
-- 🎫 Attendee – **London Tech Week 2025**  
+## 🏅 Awards & Certifications  
+
+- 🎓 **McKinsey Forward Program (2025)**  
+- 🥇 **Bristol PLUS Award** – Leadership & Employability Skills  
+- 🧪 **BILT Research Award** – Highly Commendable (University of Bristol)  
+- ☁️ **AWS Academy Graduate – Cloud Foundations**  
+- 🔑 **Salesforce Superbadges** – LWC, Apex, API Integration  
+- 🤖 **Infosys Certifications** – AI, NLP, Deep Learning, RPA  
 
 ---
 
-## 🛠️ Skills  
+## 📈 GitHub Stats & Achievements  
 
-**Programming:** Python, R, SQL, Java, C, Dart, JavaScript  
-**ML/AI:** Scikit-learn, TensorFlow, Keras, BERT, BiLSTM, Bayesian Modelling, NLP  
-**Cloud/DevOps:** AWS (EC2, Lambda, DynamoDB, S3), Docker, Node-RED, Grafana  
-**Data Engineering:** ETL pipelines, SAP integration, Power Automate  
-**Visualisation:** Tableau, Power BI, Seaborn, Matplotlib  
-**Web/App Dev:** React, Angular, Flutter, Full-stack development  
+![Thrisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thrisharajkumar&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thrisharajkumar&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thrisharajkumar&theme=radical)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=thrisharajkumar&theme=radical&margin-w=15&margin-h=15&row=2&column=4)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thrisharajkumar&theme=react-dark&bg_color=20232a&hide_border=true)  
 
 ---
 
 ## 🎭 Beyond Data  
-Outside of research and data, I’m a **professional Bharatanatyam dancer**, **Carnatic vocalist**, and **marathon runner**.  
-I bring **creativity, discipline, and endurance** into every project I take on.  
+
+Outside of research and data, I’m a **professional Bharatanatyam dancer**, **Carnatic vocalist**, and **marathon runner** — bringing creativity, discipline, and endurance into every project I take on.  
 
 ---
 
-## 📈 GitHub Stats & Activity  
-
-![Thrisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thrisharajkumar&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thrisharajkumar&layout=compact&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thrisharajkumar&theme=radical)  
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thrisharajkumar&theme=react-dark&bg_color=20232a&hide_border=true)  
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=thrisharajkumar&theme=radical&margin-w=15&margin-h=15&row=2&column=4)  
-
----
-
-✨ Always open to **collaborations, research opportunities, and graduate roles** in **AI, Data Science, and Analytics**.  
-
+✨ *Always open to collaborations, research opportunities, and graduate roles in AI, Data Science, and Analytics.*  
