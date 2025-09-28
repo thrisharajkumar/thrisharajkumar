@@ -157,8 +157,9 @@ I bring experience across **healthcare AI, socio-economic analytics, cloud syste
 <!-- Streak (rounded, gold ring + warm fire, blue labels) -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=thrisharajkumar&border_radius=20&background=0D1117&ring=FFD700&fire=FF8C00&currStreakLabel=00BFFF&sideLabels=E6EDF3&dates=8892A6)
 
-<!-- Trophies (gold-forward theme, no frame, airy layout) -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=thrisharajkumar&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15&row=1&column=6)
+<!-- Trophies (fun & gold-themed with rounded cards) -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=thrisharajkumar&theme=algolia&margin-w=15&margin-h=15&no-frame=true&row=1&column=6&title=MultiLanguage,Commits,Repositories,Experience,Stars,Followers&no-bg=true)
+
 
 <!-- Activity graph (blue line + gold points, dark bg, rounded) -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thrisharajkumar&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFD700&area=true&area_color=1a66ff&hide_border=true)
