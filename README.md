@@ -22,15 +22,29 @@ Currently, I work as a **Research Support Assistant** on an **NIHR-funded projec
 I bring experience across **healthcare AI, socio-economic analytics, cloud systems, and full-stack development**.  
 
 ---
+## 🎓 Education  
 
-## 🏆 Career Timeline  
+- **MSc Data Science** – University of Bristol (2024–2025)  
+  Focus: AI, ML, NLP, Bayesian Modelling, Visual Analytics  
 
-- 🎓 **MSc Data Science** – University of Bristol (2024–2025)  
-- 💼 **Data Science Intern** – Unilever (15+ ML initiatives delivered, 2024)  
-- 🤝 **Research Support** – NIHR/NHS Stroke Rehabilitation Project (2025)  
-- 🏅 **Awards** – Bristol PLUS Award, BILT Research Award, McKinsey Forward  
-- 🎤 **Talks** – NIHR ABI Conference (London), HDRN Workshop (Bristol, 2025)  
-- 📊 **MSc Projects** – UK Census Bayesian Analytics, EMI Surrogate Modelling, Text Analytics  
+- **BTech Computer Science** – DIT University (2019–2023)  
+  Distinction with Honours | Top 5% of cohort  
+
+---
+
+## 💼 Experience  
+
+- 🏢 **Data Science Intern – Unilever** *(2024)*  
+  Delivered 15+ ML initiatives in supply chain, forecasting, and consumer analytics.  
+
+- 🏥 **Research Support – NIHR/NHS Stroke Rehabilitation Project** *(2025)*  
+  Developed AI-powered stroke rehabilitation pipeline with clinician co-design.  
+
+- 🧪 **Research Collaboration – Sapienza University, Rome** *(2023)*  
+  Applied neural networks (CIRNet) for protein residue prediction (↑ accuracy to 78%).  
+
+- 🏫 **Infosys & Salesforce Projects** *(2022–2023)*  
+  Built RPA workflows, NLP models, and completed multiple Salesforce Superbadges.  
 
 ---
 
@@ -114,8 +128,13 @@ I bring experience across **healthcare AI, socio-economic analytics, cloud syste
 ## 🏅 Awards & Certifications  
 
 ---
-
-## 📜 Certifications  
+- 🎓 **McKinsey Forward Program (2025)**
+- 🥇 **Bristol PLUS Award**
+- Leadership & Employability Skills
+- 🧪 **BILT Research Award** – Highly Commendable (University of Bristol)
+- ☁️ **AWS Academy Graduate – Cloud Foundations**
+- 🔑 **Salesforce Superbadges** – LWC, Apex, API Integration
+- 🤖 **Infosys Certifications** – AI, NLP, Deep Learning, RPA
 
 ![McKinsey Forward](https://img.shields.io/badge/McKinsey-Forward%20Program-blue?style=for-the-badge&logo=mckinsey&logoColor=white)
 ![Bristol PLUS](https://img.shields.io/badge/Bristol-PLUS%20Award-9cf?style=for-the-badge&logo=university-of-bristol&logoColor=white)
@@ -135,6 +154,14 @@ I bring experience across **healthcare AI, socio-economic analytics, cloud syste
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thrisharajkumar&theme=radical)  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=thrisharajkumar&theme=radical&margin-w=15&margin-h=15&row=2&column=4)  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thrisharajkumar&theme=react-dark&bg_color=20232a&hide_border=true)  
+
+---
+## 🎤 Talks & Conferences  
+
+- 🧠 **NIHR ABI Conference (London, 2025)** – Stroke Rehab AI  
+- 📊 **HDRN Workshop (Bristol, 2025)** – Clinical AI Applications  
+- 💡 **Oxford Hackathon (2023)** – AI for Sustainability  
+- 🌍 **London Tech Week (2023)** – Future of AI in Healthcare  
 
 ---
 
