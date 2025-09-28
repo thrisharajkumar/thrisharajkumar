@@ -151,8 +151,6 @@ I bring experience across **healthcare AI, socio-economic analytics, cloud syste
 <!-- Core stats (rounded, gradient bg, gold icons, blue titles) -->
 ![Thrisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thrisharajkumar&show_icons=true&include_all_commits=true&count_private=true&show=prs,issues,contribs,repos&border_radius=20&bg_color=0D1117&title_color=00BFFF&text_color=E6EDF3&icon_color=FFD700)
 
-![Repos](https://badgen.net/github/repos/thrisharajkumar?icon=github&label=Public%20Repos&color=blue)
-
 
 <!-- Top languages (rounded, same palette) -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thrisharajkumar&layout=compact&border_radius=20&bg_color=20,0d1117,1a1f2e&title_color=00BFFF&text_color=E6EDF3)
@@ -184,3 +182,8 @@ Outside of research and data, I’m a **professional Bharatanatyam dancer**, **C
 ---
 
 ✨ *Always open to collaborations, research opportunities, and graduate roles in AI, Data Science, and Analytics.*  
+
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thrisharajkumar&theme=tokyonight)
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thrisharajkumar&theme=tokyonight)
+
