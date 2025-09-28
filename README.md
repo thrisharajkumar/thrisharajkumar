@@ -149,7 +149,8 @@ I bring experience across **healthcare AI, socio-economic analytics, cloud syste
 ## 📈 GitHub Stats & Achievements
 
 <!-- Core stats (rounded, gradient bg, gold icons, blue titles) -->
-![Thrisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thrisharajkumar&show_icons=true&rank_icon=github&border_radius=20&bg_color=20,0d1117,1a1f2e&title_color=00BFFF&text_color=E6EDF3&icon_color=FFD700)
+![Thrisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thrisharajkumar&show_icons=true&include_all_commits=true&count_private=true&show=prs,issues,contribs,repos&border_radius=20&bg_color=0D1117&title_color=00BFFF&text_color=E6EDF3&icon_color=FFD700)
+
 
 <!-- Top languages (rounded, same palette) -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thrisharajkumar&layout=compact&border_radius=20&bg_color=20,0d1117,1a1f2e&title_color=00BFFF&text_color=E6EDF3)
