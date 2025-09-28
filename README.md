@@ -1,11 +1,12 @@
-<!-- Typing effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=1000&lines=Thrisha+Rajkumar+-+MSc+Data+Science+Student+%40+Bristol;AI+%7C+ML+%7C+Data+Science+%7C+Cloud+%7C+Research;NIHR%2FNHS+Stroke+Rehabilitation+Project;Turning+Complex+Data+into+Impactful+Insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=1000&lines=MSc+Data+Science+%40+Bristol+’25+(Russell+Group);AI%2FML+Research+Support+–+NIHR;Ex-Unilever+%7C+CS+Engineer;Python+•+R+•+SQL+•+Machine+Learning+•+AI)](https://git.io/typing-svg)
+
 
 ---
 
 # 👩‍💻 Thrisha Rajkumar  
 
-*MSc Data Science Student @ University of Bristol ’25 | AI/ML Research Support (NIHR/NHS) | Data Science & Analytics Specialist*  
+*MSc Data Science @ University of Bristol ’25 (Russell Group) | AI/ML Research Support – NIHR | Ex-Unilever | Computer Science Engineer | Data Science & Analytics | Python • R • SQL • Machine Learning • AI*
+
 
 🔗 [LinkedIn](https://www.linkedin.com/in/thrisha-rajkumar/) • [GitHub](https://github.com/thrisharajkumar)  
 
