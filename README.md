@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=1000&lines=MSc+Data+Science+%40+Bristol+’25+(Russell+Group);AI%2FML+Research+Support+–+NIHR;Ex-Unilever+%7C+CS+Engineer;Python+•+R+•+SQL+•+Machine+Learning+•+AI)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=600&color=007BFF&center=true&vCenter=true&width=1000&lines=MSc+Data+Science+%40+Bristol+’25+(Russell+Group);AI%2FML+Research+Support+–+NIHR;Ex-Unilever+%7C+CS+Engineer;Python+•+R+•+SQL+•+Machine+Learning+•+AI)](https://git.io/typing-svg)
 
 ---
 
