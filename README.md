@@ -146,14 +146,22 @@ I bring experience across **healthcare AI, socio-economic analytics, cloud syste
 ![LinkedIn Learning](https://img.shields.io/badge/LinkedIn-Full%20Stack%20Web%20Development-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ---
+## 📈 GitHub Stats & Achievements
 
-## 📈 GitHub Stats & Achievements  
+<!-- Core stats (rounded, gradient bg, gold icons, blue titles) -->
+![Thrisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thrisharajkumar&show_icons=true&rank_icon=github&border_radius=20&bg_color=20,0d1117,1a1f2e&title_color=00BFFF&text_color=E6EDF3&icon_color=FFD700)
 
-![Thrisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thrisharajkumar&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thrisharajkumar&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thrisharajkumar&theme=radical)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=thrisharajkumar&theme=radical&margin-w=15&margin-h=15&row=2&column=4)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thrisharajkumar&theme=react-dark&bg_color=20232a&hide_border=true)  
+<!-- Top languages (rounded, same palette) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thrisharajkumar&layout=compact&border_radius=20&bg_color=20,0d1117,1a1f2e&title_color=00BFFF&text_color=E6EDF3)
+
+<!-- Streak (rounded, gold ring + warm fire, blue labels) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=thrisharajkumar&border_radius=20&background=0D1117&ring=FFD700&fire=FF8C00&currStreakLabel=00BFFF&sideLabels=E6EDF3&dates=8892A6)
+
+<!-- Trophies (gold-forward theme, no frame, airy layout) -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=thrisharajkumar&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15&row=1&column=6)
+
+<!-- Activity graph (blue line + gold points, dark bg, rounded) -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thrisharajkumar&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFD700&area=true&area_color=1a66ff&hide_border=true)
 
 ---
 ## 🎤 Talks & Conferences  
