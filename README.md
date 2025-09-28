@@ -10,6 +10,8 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/thrisha-rajkumar/) • [GitHub](https://github.com/thrisharajkumar)  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thrisharajkumar&color=brightgreen&style=flat-square)  
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thrisharajkumar&theme=tokyonight)
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thrisharajkumar&theme=tokyonight)
 
 ---
 
@@ -182,8 +184,3 @@ Outside of research and data, I’m a **professional Bharatanatyam dancer**, **C
 ---
 
 ✨ *Always open to collaborations, research opportunities, and graduate roles in AI, Data Science, and Analytics.*  
-
-
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thrisharajkumar&theme=tokyonight)
-![Repos](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thrisharajkumar&theme=tokyonight)
-
