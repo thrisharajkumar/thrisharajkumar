@@ -50,6 +50,16 @@ I bring experience across **healthcare AI, socio-economic analytics, cloud syste
 
 ---
 
+
+## 📄 Publications & Peer-Reviewed Papers
+
+- **Thrisha Rajkumar**, et al.  
+  **“Personalised Stroke Rehabilitation: An AI Pipeline for Exercise Programmes Using a Co-Designed Decision Support Tablet Application”**  
+  *HEALTHINF 2025 – International Conference on Health Informatics*  
+  📍 Position Paper | AI in Healthcare | Clinical Decision Support  
+  🏥 NIHR / NHS Stroke Rehabilitation Research  
+
+---
 ## 📊 Featured Projects  
 
 ### 🔹 [UK Census Socio-Economic Analysis](#)  
