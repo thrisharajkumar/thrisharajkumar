@@ -19,7 +19,7 @@
 
 Hi, I’m **Thrisha Rajkumar**, an MSc Data Science student at the **University of Bristol** with a passion for **AI, machine learning, and socially impactful data projects**.  
 
-Currently, I work as a **Research Support Assistant** on an **NIHR-funded project with the NHS**, co-developing AI algorithms and a cross-platform rehabilitation app for stroke patients.  
+Currently, I work as a **Research Support for AI/ML and Software Engineering** on an **NIHR-funded project with the NHS**, co-developing AI algorithms and a cross-platform rehabilitation app for stroke patients.  
 
 I bring experience across **healthcare AI, socio-economic analytics, cloud systems, and full-stack development**.  
 
@@ -36,11 +36,11 @@ I bring experience across **healthcare AI, socio-economic analytics, cloud syste
 
 ## 💼 Experience  
 
+- 🏥 **Research Support – NIHR/NHS Stroke Rehabilitation Project** *(2025)*  
+  Developed AI-powered stroke rehabilitation pipeline with clinician co-design.
+
 - 🏢 **Data Science Intern – Unilever** *(2024)*  
   Delivered 15+ ML initiatives in supply chain, forecasting, and consumer analytics.  
-
-- 🏥 **Research Support – NIHR/NHS Stroke Rehabilitation Project** *(2025)*  
-  Developed AI-powered stroke rehabilitation pipeline with clinician co-design.  
 
 - 🧪 **Research Collaboration – Sapienza University, Rome** *(2023)*  
   Applied neural networks (CIRNet) for protein residue prediction (↑ accuracy to 78%).  
