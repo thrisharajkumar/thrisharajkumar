@@ -42,10 +42,15 @@ I bring experience across **healthcare AI, socio-economic analytics, cloud syste
 Project: Co-design of an Artificial Intelligence algorithm for personalised exercise videos to enhance community-based rehabilitation for people with stroke
 
 • Developing ML models to personalise exercise routines from patient feedback (feature engineering, supervised learning, performance evaluation).
+
 • Designing ethical data collection protocols, extracting features from structured feedback and clinician input.
+
 • Collaborated with people with stroke (PwS) and clinicians via interviews/workshops to ensure clinical relevance, accessibility, and empowerment.
+
 • Structured app workflows and integrated ML components into a cross-platform Flutter app for real-time recommendations and feedback.
+
 • Presented prototypes and technical solutions to PwS and clinical teams, supporting inclusive, user-centred innovation.
+
 • Worked with interdisciplinary teams across Bristol, Cardiff, Plymouth, and UWE, bridging AI, healthcare, and HCI domains.
 
 Support in Publications, AI/ML refinement, software development, and co-design workshops.
