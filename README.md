@@ -36,8 +36,19 @@ I bring experience across **healthcare AI, socio-economic analytics, cloud syste
 
 ## 💼 Experience  
 
-- 🏥 **Research Support – NIHR/NHS Stroke Rehabilitation Project** *(2025)*  
-  Developed AI-powered stroke rehabilitation pipeline with clinician co-design.
+- 🏥 **Research Support – ML/AI and Software Engineering (NIHR Stroke Rehabilitation Project)** *(2025)*  
+ NIHR-funded initiative led by the University of Bristol to support NHS community-based stroke rehabilitation through co-designed AI solutions.
+
+Project: Co-design of an Artificial Intelligence algorithm for personalised exercise videos to enhance community-based rehabilitation for people with stroke
+
+• Developing ML models to personalise exercise routines from patient feedback (feature engineering, supervised learning, performance evaluation).
+• Designing ethical data collection protocols, extracting features from structured feedback and clinician input.
+• Collaborated with people with stroke (PwS) and clinicians via interviews/workshops to ensure clinical relevance, accessibility, and empowerment.
+• Structured app workflows and integrated ML components into a cross-platform Flutter app for real-time recommendations and feedback.
+• Presented prototypes and technical solutions to PwS and clinical teams, supporting inclusive, user-centred innovation.
+• Worked with interdisciplinary teams across Bristol, Cardiff, Plymouth, and UWE, bridging AI, healthcare, and HCI domains.
+
+Support in Publications, AI/ML refinement, software development, and co-design workshops.
 
 - 🏢 **Data Science Intern – Unilever** *(2024)*  
   Delivered 15+ ML initiatives in supply chain, forecasting, and consumer analytics.  
