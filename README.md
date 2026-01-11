@@ -2,7 +2,7 @@
 
 ---
 
-# 👩‍💻 Thrisha Rajkumar  
+# ✨ Thrisha Rajkumar  
 
 *MSc Data Science @ University of Bristol ’25 (Russell Group) | AI/ML Research Support – NIHR | Ex-Unilever | Computer Science Engineer | Data Science & Analytics | Python • R • SQL • Machine Learning • AI*
 
