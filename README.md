@@ -69,7 +69,7 @@ Support in Publications, AI/ML refinement, software development, and co-design w
 
 ## 📄 Publications & Peer-Reviewed Papers
 
-- **Thrisha Rajkumar**, et al.  
+- **Thrisha Rajkumar**, 
   **“Personalised Stroke Rehabilitation: An AI Pipeline for Exercise Programmes Using a Co-Designed Decision Support Tablet Application”**  
   *HEALTHINF 2025 – International Conference on Health Informatics*  
   📍 Position Paper | AI in Healthcare | Clinical Decision Support  
