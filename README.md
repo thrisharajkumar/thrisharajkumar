@@ -98,7 +98,6 @@ Support in Publications, AI/ML refinement, software development, and co-design w
 - Accuracy boosted to 78% using PCA + hydropathy features  
 
 ---
-## 🛠️ Tech Stack  
 
 ### 🔹 Programming & Frameworks  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
