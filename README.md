@@ -6,8 +6,7 @@
 
 *MSc Data Science @ University of Bristol ’25 (Russell Group) | AI/ML Research Support – NIHR | Ex-Unilever | Computer Science Engineer | Data Science & Analytics | Python • R • SQL • Machine Learning • AI*
 
-
-🔗 [LinkedIn](https://www.linkedin.com/in/thrisha-rajkumar/) • [GitHub](https://github.com/thrisharajkumar)  
+Data Scientist and ML Engineer building production-grade, cloud-native ML systems end-to-end: data engineering, feature development, pipeline orchestration, deployment, monitoring, drift detection, and governance. Experienced across healthcare, industrial, and commercial  domains with predictive modelling, time-series forecasting, NLP, deep learning, generative AI, and explainable AI (SHAP/LIME). Skilled in Python, SQL, TensorFlow, Scikit-learn, Airflow, CI/CD, and MLOps, delivering scalable, real-time, interpretable ML pipelines with measurable business and clinical impact. Eligible to work in the UK via the Graduate Visa; open to relocation and travel. 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thrisharajkumar&color=brightgreen&style=flat-square)  
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thrisharajkumar&theme=tokyonight)
