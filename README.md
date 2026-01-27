@@ -21,7 +21,7 @@ Bridging ML research, software engineering, and clinical impact. Ex-Unilever int
 - **BTech Computer Science Engineering** – DIT University (2020–2024) — First Class Honours (85.4%, top cohort)
 
 ## 💼 Key Experience
-- **AI/ML Research Support & Software Engineer** – NIHR Stroke Rehabilitation Project, University of Bristol (2025–present)  
+- **AI/ML Research Support & Software Engineer** – NIHR Stroke Rehabilitation Project, University of Bristol (April 2025–present)  
   End-to-end development of AI-powered cross-platform app: predictive personalization, Clinical-T5 NLP, diffusion/generative models, SHAP/LIME explainability, Airflow pipelines, Azure/AWS deployment, drift monitoring. Co-designed with patients & clinicians; lead author on accepted HEALTHINF 2025 paper (Barcelona).
 
 - **Data Science & Analytics Intern** – Unilever (Hindustan Unilever Ltd., 2024)  
