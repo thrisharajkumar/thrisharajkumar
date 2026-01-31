@@ -9,6 +9,7 @@ Data Scientist & ML Engineer building **production-grade, cloud-native ML system
 **Impact:** Process efficiency gains up to 40%, energy savings 12–15%, decision-ready clinical and operational insights.
 
 📍 London-based | UK Graduate Visa eligible | Open to hybrid/remote roles in Data Science, ML/AI Engineering, and MLOps  
+
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thrisha-rajkumar/)
 
 ---
