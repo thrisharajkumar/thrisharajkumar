@@ -23,6 +23,13 @@ Passionate about **AI for social good** — developing production-grade AI for N
 
 ---
 
+
+## 📈 GitHub Activity
+![Profile Views](https://komarev.com/ghpvc/?username=thrisharajkumar&color=brightgreen&style=flat-square) 
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thrisharajkumar&theme=tokyonight) 
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thrisharajkumar&theme=tokyonight)
+
+---
 ## 💼 Key Experience
 **AI/ML Research Support & Software Engineer** – NIHR Stroke Rehabilitation Project, University of Bristol (Apr 2025–Present)  
 - Led development of **NIHR-funded stroke-rehab app**, integrating predictive personalization, Clinical-T5 NLP, diffusion/generative models, and SHAP/LIME explainability.  
@@ -74,14 +81,6 @@ Passionate about **AI for social good** — developing production-grade AI for N
 - AWS Academy Graduate – Cloud & ML  
 - Infosys AI/NLP/Deep Learning/RPA  
 - Salesforce Superbadges  
-
----
-
-## 📈 GitHub Activity
-![Profile Views](https://komarev.com/ghpvc/?username=thrisharajkumar&color=brightgreen&style=flat-square) 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thrisharajkumar&theme=tokyonight) 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thrisharajkumar&theme=tokyonight)
-
 
 ---
 
