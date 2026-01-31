@@ -78,10 +78,10 @@ Passionate about **AI for social good** — developing production-grade AI for N
 ---
 
 ## 📈 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thrisharajkumar&show_icons=true&include_all_commits=true&count_private=true&border_radius=20&bg_color=0D1117&title_color=00BFFF&text_color=E6EDF3&icon_color=FFD700)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thrisharajkumar&layout=compact&border_radius=20&bg_color=20,0d1117,1a1f2e&title_color=00BFFF&text_color=E6EDF3)
-![Streak](https://streak-stats.demolab.com?user=thrisharajkumar&border_radius=20&background=0D1117&ring=FFD700&fire=FF8C00&currStreakLabel=00BFFF&sideLabels=E6EDF3&dates=8892A6)
-![Trophies](https://github-profile-trophy.vercel.app/?username=thrisharajkumar&theme=algolia&margin-w=15&no-frame=true)
+![Profile Views](https://komarev.com/ghpvc/?username=thrisharajkumar&color=brightgreen&style=flat-square) 
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thrisharajkumar&theme=tokyonight) 
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thrisharajkumar&theme=tokyonight)
+
 
 ---
 
