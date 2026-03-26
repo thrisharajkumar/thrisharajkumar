@@ -49,6 +49,7 @@ Passionate about **AI for social good** — developing production-grade AI for N
 ---
 
 ## 📄 Publications
+- **Lead Author:** Paper accepted at IPEC-ECCE Asia 2026, Nagasaki, Japan   
 - **Lead Author:** *“Personalised Stroke Rehabilitation: An AI Pipeline for Exercise Programmes Using a Co-Designed Decision Support Tablet Application”* — HEALTHINF 2025 (peer-reviewed, NIHR-backed)  
 
 ---
