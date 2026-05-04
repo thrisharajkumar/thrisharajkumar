@@ -38,11 +38,6 @@ Passionate about **AI for social good** — developing production-grade AI for N
 **BGA (Automotive Aftermarket, UK)**  
 *Apr 2026 – Present*
 
-- Building **production-grade ML systems** for commercial and operational decision-making  
-- Working on **forecasting, optimisation, and AI-driven analytics** for supply chain and pricing use cases  
-- Developing scalable pipelines and models integrated into business workflows  
-- Collaborating with cross-functional teams to translate business problems into deployable AI solutions  
-
 ---
 
 ### AI/ML Engineer (Research & Production Systems)  
