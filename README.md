@@ -32,20 +32,40 @@ Passionate about **AI for social good** — developing production-grade AI for N
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thrisharajkumar&theme=tokyonight)
 
 ---
-## 💼 Key Experience
-**AI/ML Research Support & Software Engineer** – NIHR Stroke Rehabilitation Project, University of Bristol (Apr 2025–Present)  
-- Led development of **NIHR-funded stroke-rehab app**, integrating predictive personalization, Clinical-T5 NLP, diffusion/generative models, and SHAP/LIME explainability.  
-- Designed GDPR-compliant, **cloud-native data pipelines** with Python, SQL, Airflow, Azure/AWS; ensured production-ready ML workflows with monitoring and drift detection.  
-- Conducted **user-centered co-design workshops** with patients and clinicians; translated feedback into actionable model improvements.  
-- Lead author of **HEALTHINF 2025** paper presenting applied clinical AI and production-ready ML pipelines.  
+## 💼 Experience
 
-**Data Science & Analytics Intern** – Unilever (Hindustan Unilever Ltd., 2024)  
-- Delivered 14+ analytics projects across supply chain, manufacturing, and safety: Python optimisation for 250+ SKUs (40% changeover reduction), ML forecasting (15–20% efficiency gains), energy dashboards (12–15% usage reduction).  
-- Automated supply chain and energy-management workflows using Python, SAP, Power BI/Tableau; consolidated 29K+ safety logs (71% reduction).  
-- Built scenario- and resource-optimisation models to support **staffing, cost, and operational decisions**.  
+### Data Scientist  
+**BGA (Automotive Aftermarket, UK)**  
+*Apr 2026 – Present*
 
-**Other Experience:** Sapienza University research (protein residue prediction), Salesforce/Infosys internships (RPA, NLP), Flutter full-stack projects  
+- Building **production-grade ML systems** for commercial and operational decision-making  
+- Working on **forecasting, optimisation, and AI-driven analytics** for supply chain and pricing use cases  
+- Developing scalable pipelines and models integrated into business workflows  
+- Collaborating with cross-functional teams to translate business problems into deployable AI solutions  
 
+---
+
+### AI/ML Engineer (Research & Production Systems)  
+**NIHR NHS Stroke Rehabilitation Project – University of Bristol**  
+*Apr 2025 – Apr 2026*
+
+- Led development of a **production-ready clinical AI system** for personalised stroke rehabilitation  
+- Built **end-to-end ML pipelines** (data → modelling → deployment → monitoring)  
+- Integrated **LLMs, generative models, and explainable AI** into a real-world healthcare application  
+- Designed **GDPR-compliant cloud architecture** (AWS/Azure, Airflow orchestration)  
+- Conducted **co-design with clinicians & patients**, translating feedback into model improvements  
+- Lead author on peer-reviewed research (HEALTHINF)
+
+---
+
+### Data Science & Analytics Intern  
+**Unilever**  
+*2024*
+
+- Delivered **14+ ML & analytics solutions** across supply chain, manufacturing, and safety  
+- Built optimisation system for **250+ SKUs**, reducing changeover time by 40%  
+- Developed forecasting & anomaly detection systems improving efficiency by 15–20%  
+- Automated workflows (SAP + Python), scaling decision-making across operations  
 ---
 
 ## 📄 Publications
