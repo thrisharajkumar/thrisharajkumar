@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=600&color=007BFF&center=true&vCenter=true&width=1000&lines=MSc+Data+Science+@+Bristol+’25+(Russell+Group);AI%2FML+Research+Support+–+NIHR;Ex-Unilever+Data+Science+Intern;Python+•+TensorFlow+•+MLOps+•+Generative+AI)](https://git.io/typing-svg)
 
 # ✨ Thrisha Rajkumar
-* Data Scientist and ML Engineer | MSc Data Science @ University of Bristol (Russell Group, 2025) | AI/ML Research Support – NIHR-funded NHS Stroke Rehab | Ex-Unilever Data Science Intern | End-to-end ML & AI pipelines with measurable impact*
+*Data Scientist and ML Engineer | MSc Data Science @ University of Bristol (Russell Group, 2025) | AI/ML Research Support – NIHR-funded NHS Stroke Rehab | Ex-Unilever Data Science Intern | End-to-end ML & AI pipelines with measurable impact*
 
 Data Scientist & ML Engineer building **production-grade, cloud-native ML systems**: data pipelines, feature engineering, orchestration (Airflow), deployment, monitoring, drift detection, and governance. Hands-on across **healthcare, industrial, and commercial domains** — leveraging predictive modelling, time-series forecasting, NLP, deep learning, generative AI, and XAI (SHAP/LIME).  
 
