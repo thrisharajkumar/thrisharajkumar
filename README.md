@@ -34,6 +34,7 @@ Passionate about **AI for social good** — developing production-grade AI for N
 ---
 ## 💼 Experience
 
+---
 ### Data Scientist  
 **BG Automotive**  
 Swindon, UK
