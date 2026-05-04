@@ -35,8 +35,8 @@ Passionate about **AI for social good** — developing production-grade AI for N
 ## 💼 Experience
 
 ### Data Scientist  
-**BGA (Automotive Aftermarket, UK)**  
-*Apr 2026 – Present*
+**:contentReference[oaicite:0]{index=0}**  
+*Apr 2026 – Present (Full-time)*
 
 ---
 
