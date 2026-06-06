@@ -8,7 +8,7 @@ Data Scientist & ML Engineer building **production-grade, cloud-native ML system
 **Tech Stack:** Python, SQL, TensorFlow/Keras, Scikit-learn, Airflow, Docker, Azure/AWS, CI/CD, Flutter integration.  
 **Impact:** Process efficiency gains up to 40%, energy savings 12–15%, decision-ready clinical and operational insights.
 
-📍 Swindon, UK, Data Scientist at BG Automotive
+📍 UK
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thrisha-rajkumar/)
 
