@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=600&color=007BFF&center=true&vCenter=true&width=1000&lines=Applied+Data+Scientist+%7C+Clinical+AI+%26+Industrial+ML;Lead+Author+%7C+HEALTHINF+2026+%26+IPEC-ECCE+Asia+2026;NIHR-Funded+NHS+Clinical+AI+%7C+Unilever+ML;MSc+Data+Science+%40+Bristol+%E2%80%94+Distinction;UK+Graduate+Visa+%7C+Available+Now)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=600&color=007BFF&center=true&vCenter=true&width=1000&lines=Data+Scientist+%7C+Clinical+AI+%26+Industrial+ML;Lead+Author+%7C+HEALTHINF+2026+%26+IPEC-ECCE+Asia+2026;NIHR-Funded+NHS+Clinical+AI+%7C+Unilever+ML;MSc+Data+Science+%40+Bristol+%E2%80%94+Distinction;UK+Graduate+Visa+%7C+Available+Now)](https://git.io/typing-svg)
 
 # Thrisha Rajkumar
 
