@@ -28,7 +28,7 @@ Applied Data Scientist with production ML experience across clinical AI and indu
 **University of Bristol · NIHR i4i Programme**
 *Apr 2025 — Apr 2026*
 
-Lead engineer on a £91,101 government-funded clinical AI platform for NHS community stroke rehabilitation — co-designed with NHS therapists, HCI researchers, and stroke patients.
+Lead engineer on a government-funded clinical AI platform for NHS community stroke rehabilitation — co-designed with NHS therapists, HCI researchers, and stroke patients.
 
 - Built multi-label classification model on real NHS data from 31 stroke patients — 28 exercises, 46 clinical features (Berg Balance Scale, TUG, ADL Confidence)
 - Experimented with Clinical-BERT and Clinical-T5 transformer architectures for clinical NLP including NER, text classification, and sentiment analysis on patient feedback
