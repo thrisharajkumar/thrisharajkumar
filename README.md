@@ -22,6 +22,14 @@ Applied Data Scientist with production ML experience across clinical AI and indu
 
 ---
 
+## GitHub Activity
+
+![Profile Views](https://komarev.com/ghpvc/?username=thrisharajkumar&color=brightgreen&style=flat-square)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thrisharajkumar&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thrisharajkumar&theme=tokyonight)
+
+---
+
 ## Experience
 
 ### Applied Data Scientist — Clinical AI (NIHR-Funded)
@@ -158,13 +166,6 @@ Python-based production scheduling system for 250+ lipstick SKUs using spectroph
 
 ---
 
-## GitHub Activity
-
-![Profile Views](https://komarev.com/ghpvc/?username=thrisharajkumar&color=brightgreen&style=flat-square)
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thrisharajkumar&theme=tokyonight)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thrisharajkumar&theme=tokyonight)
-
----
 
 ## Beyond the Code
 
