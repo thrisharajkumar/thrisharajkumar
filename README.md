@@ -78,10 +78,25 @@ Developed ML surrogate models to replace computationally expensive LTSpice simul
 
 ## Publications
 
+### Journal
+
+| Year | Title | Venue |
+|------|-------|-------|
+| 2026 | Comparison of Machine Learning Techniques for Analysing Wide Bandgap Switching Behavior and EMI in Half-Bridge Structures | IET Journals · [DOI/Link](https://research-information.bris.ac.uk/en/publications/comparison-of-machine-learning-techniques-for-analysing-wide-band/) |
+
+### Conference
+
 | Year | Title | Venue | Role |
 |------|-------|-------|------|
 | 2026 | Personalised Stroke Rehabilitation: An AI Pipeline for Exercise Programmes Using a Co-Designed Decision Support Tablet Application | HEALTHINF 2026, Barcelona · Selected for Springer CCIS | Lead Author |
 | 2026 | Comparison of Machine Learning Techniques for Analysing Wide Bandgap Switching Behavior and EMI in Half-Bridge Structures | IPEC-ECCE Asia 2026, Nagasaki · IEEJ | Lead Author |
+
+---
+
+## Research Grants & Funded Research
+
+- **Research Support in Software Engineering & AI/ML**, University of Bristol (2025–2026)
+  Contributed to the NIHR i4i FAST-funded project developing AI-driven personalised stroke rehabilitation exercise recommendations using NLP, explainable AI (SHAP/LIME), and transformer-based models.
 
 ---
 
@@ -154,7 +169,7 @@ Python-based production scheduling system for 250+ lipstick SKUs using spectroph
 
 ---
 
-## Awards & Recognition
+## Awards, Recognition & Distinctions
 
 - Highly Commended Presentation — BILT Student Research Festival, University of Bristol (2025)
 - Bristol PLUS Award — University of Bristol (2025) — achieved by 3% of students
@@ -163,9 +178,11 @@ Python-based production scheduling system for 250+ lipstick SKUs using spectroph
 - Presented at NIHR ABI Dissemination Conference, London (2025)
 - Presented at HDRN Workshop, Bristol (2025)
 - ETH Oxford Hackathon Participant (2025)
+- First author of research presented at international conferences spanning Healthcare AI and Power Electronics & Machine Learning
+- Contributed to interdisciplinary AI research spanning healthcare, natural language processing, explainable AI, and surrogate modelling
+- Experience developing machine learning and generative AI solutions within funded academic research projects
 
 ---
-
 
 ## Beyond the Code
 
