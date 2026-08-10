@@ -31,6 +31,9 @@ Applied Data Scientist with production ML experience across clinical AI and indu
 ---
 
 ## Experience
+### Machine Learning Research Intern, Perioperative Mortality Prediction
+**University of Bristol **
+*Jun 2026 — Present*
 
 ### Applied Data Scientist — Clinical AI (NIHR-Funded)
 **University of Bristol · NIHR i4i Programme**
