@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=600&color=007BFF&center=true&vCenter=true&width=1000&lines=Applied+Data+Scientist+%7C+Clinical+AI+%26+Industrial+ML;Lead+Author+%7C+HEALTHINF+2026+%26+IPEC-ECCE+Asia+2026;NIHR-Funded+NHS+Clinical+AI+%7C+Unilever+ML;MSc+Data+Science+%40+Bristol+%E2%80%94+Distinction;UK+Graduate+Visa+%7C+Available+Now)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=600&color=007BFF&center=true&vCenter=true&width=1000&lines=Senior+Data+Scientist+%7C+Clinical+AI+%26+Industrial+ML;Lead+Author+%7C+HEALTHINF+2026+%26+IPEC-ECCE+Asia+2026;NIHR-Funded+NHS+Clinical+AI+%7C+Unilever+ML;MSc+Data+Science+%40+Bristol+%E2%80%94+Distinction;UK+Graduate+Visa+%7C+Available+Now)](https://git.io/typing-svg)
 
 # Thrisha Rajkumar
 
 *Every project I take on gets built, shipped, and published. From NHS stroke rehabilitation to Unilever supply chain — I deliver ML that creates real impact, turns complex data into decisions, and leaves something that actually works behind.*
 
-📍 United Kingdom · UK Graduate Visa — no sponsorship needed · Available immediately
+📍 Birmingham, United Kingdom 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thrisha-rajkumar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thrisharajkumar5@gmail.com)
