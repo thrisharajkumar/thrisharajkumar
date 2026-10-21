@@ -202,10 +202,8 @@ Python-based production scheduling system for 250+ lipstick SKUs using spectroph
 
 ## Beyond the Code
 
-Bharatanatyam dancer · Carnatic vocalist · Distance runner
+Motorcyclist (Biker) · Bharatanatyam dancer · Carnatic vocalist · Marathon Runner 
 
 ---
-
-*UK Graduate Visa — no sponsorship needed · Available immediately · Open to relocation across the UK*
 
 *thrisharajkumar5@gmail.com · [linkedin.com/in/thrisha-rajkumar](https://www.linkedin.com/in/thrisha-rajkumar/)*
