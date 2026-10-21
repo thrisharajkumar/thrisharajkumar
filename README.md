@@ -33,7 +33,14 @@ Applied Data Scientist with production ML experience across clinical AI and indu
 ## Experience
 ### Machine Learning Research Intern, Perioperative Mortality Prediction
 **University of Bristol**
-*Jun 2026 — Present*
+*Jun 2026 — Sept 2026*
+
+Collaborated with Dr James H. Pope on the INSPIRE Project to develop deep learning methods for pre-operative 30-day mortality prediction.
+
+- Designed an organ-specific encoder–decoder architecture to learn clinically interpretable representations from clinical time-series data.• Designed the mapping from input time-series data to organ-specific representations and developed the subsequent mortality classification model.
+- Worked with complex architectures, large-scale clinical data, and domain knowledge from surgical collaborators.
+- Developed a modelling approach that demonstrated strong performance compared with previous state-of-the-art methods while producing features linked to clinically identifiable organ functions.
+- Prepared a research preprint for arXiv submission, with the work being developed for submission to a competitive research venue.
 
 ### Applied Data Scientist — Clinical AI (NIHR-Funded)
 **University of Bristol · NIHR i4i Programme**
