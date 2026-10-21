@@ -31,7 +31,13 @@ Applied Data Scientist with production ML experience across clinical AI and indu
 ---
 
 ## Experience
-### Machine Learning Research Intern, Perioperative Mortality Prediction
+
+### Senior Data Scientist
+**Strolll**
+*Sept 2026 —  Present*
+Data and AI team
+
+### Research Collaborator – Machine Learning for 30-Day Mortality Prediction
 **University of Bristol**
 *Jun 2026 — Sept 2026*
 
